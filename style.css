@@ -19,12 +19,7 @@ ul {
 }
 
 
-.debug {
-    border:1px solid black;
-}
-
-
-body {
+.body {
     font-family: "Noto Sans", sans-serif;
     background-color: var(--color-secondary)
 }
@@ -99,3 +94,20 @@ h2 {
     font-size: 32px;
     
 }
+
+.text-align-center {
+    text-align: center;
+}
+h3 {
+    font-size: 27px;
+}
+
+.button {
+    background-color: var(--color-header-bg);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    margin-top: 30px;
+}
+
+
