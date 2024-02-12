@@ -205,8 +205,29 @@ h4 {
     color:black;
     border-radius: 20px;
     padding: 10px;
-
 }
+
+
  .padding-top {
     padding-top: 150px;
  }
+
+ 
+a {
+    text-decoration: none; 
+}
+
+
+a:hover {
+    box-shadow: 5px 5px 5px 5px #7edffd; 
+    
+}
+
+#scarica-per-mac {
+    background-color:#7289DA;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    
+} 
